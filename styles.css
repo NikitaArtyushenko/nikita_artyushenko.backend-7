@@ -1,0 +1,18 @@
+body{margin: 0; text-align: center; padding: 0px;}
+  #forms{
+    max-width:960px; 
+    max-height: 1000px;
+    overflow-y: scroll;
+    background-color:rgb(229, 231, 216); 
+    margin: 0 auto; 
+    margin-top:20px; 
+    padding:10px;
+    text-align: center;
+  }
+  .formContent{
+    margin-top: 10px;
+  }
+  .error {
+    margin-top: 10px;
+    border: 2px solid red;
+  }
